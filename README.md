@@ -9,9 +9,8 @@
 - 🎓 Учусь программированию, имею высшее образование ИТ-менеджмент в бизнесе
 - 📚 Прохожу тренажеры в HTML academy 
 - 💡 Люблю разбираться в новых технологиях
-— 🤝🏼 Коммуникабельная 
 
-📫 **Как связаться?**  
-[![Telegram](https://img.shields.io/badge/Telegram-%40darya_kosygina-blue?logo=telegram)](https://t.me/daariakk)  
-[![Email](https://img.shields.io/badge/Email-darya@example.com-red?logo=gmail)](mailto:shevchenko_9629@mail.ru)
 
+📫 **Связаться со мной:**  
+[![Telegram](https://img.shields.io/badge/Telegram-%40daariakk-blue?logo=telegram)](https://t.me/daariakk)  
+[![Email](https://img.shields.io/badge/Email-shevchenko_9629%40mail.ru-red?logo=maildotru)](mailto:shevchenko_9629@mail.ru)

@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💻 Дарья Косыгина  
 
-<!--
-**daria-kosygina/daria-kosygina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! 👋 Я начинающий разработчик, изучаю программирование и создаю свои первые проекты.  
 
-Here are some ideas to get you started:
+### 🔧 Технологии, которые изучаю на данный момент:
+- — HTML & CSS 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 О себе:
+- 🎓 Учусь программированию, имею высшее образование ИТ-менеджмент в бизнесе
+- 📚 Прохожу тренажеры в HTML academy 
+- 💡 Люблю разбираться в новых технологиях
+— 🤝🏼 Коммуникабельная 
+
+📫 **Как связаться?**  
+[![Telegram](https://img.shields.io/badge/Telegram-%40darya_kosygina-blue?logo=telegram)](https://t.me/daariakk)  
+[![Email](https://img.shields.io/badge/Email-darya@example.com-red?logo=gmail)](mailto:shevchenko_9629@mail.ru)
+
